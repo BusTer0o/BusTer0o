@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @BusTer0o
-- 👀 I’m interested in java project
-- 🌱 I’m currently learning arm stm32 with c
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in verilog project
+- 🌱 I’m currently learning arm zynq with c, verilog
 
 <!---
 BusTer0o/BusTer0o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
